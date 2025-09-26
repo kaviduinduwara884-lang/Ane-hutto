@@ -20,7 +20,7 @@ global.owner = OWNER_NUMBER;          // 👑 Super Owner
 global.owners = [OWNER_NUMBER, DEV];  // Array form (multi support)
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "BILAL-MD~SESSION_ID",
+  SESSION_ID: process.env.SESSION_ID || "BILAL-MD~LdskmCZJ#5gZ-zE3tiC_e0GwGMibHUUqxHWwwgCd_qQUgjcY1iVo",
 
   // 👑 Owners
   OWNER_NUMBER,
